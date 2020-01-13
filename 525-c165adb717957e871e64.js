@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[525],{3154:function(e,t,i){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var a=f(i(0)),n=i(134),u=f(i(925));function f(e){return e&&e.__esModule?e:{default:e}}t.default=function(){return a.default.createElement(n.Facility,{id:"image-facility",image:u.default,alt:"facility"})}},925:function(e,t,i){e.exports=i.p+"87ec563ff16c288f58b0747d553762d6.jpg"}}]);
+//# sourceMappingURL=525-c165adb717957e871e64.js.map

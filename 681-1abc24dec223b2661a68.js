@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[681],{3550:function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:!0}),t.default=void 0;var u=d(o(0)),n=d(o(890));function d(e){return e&&e.__esModule?e:{default:e}}var i=function(){return u.default.createElement(n.default,{id:"toggleButton",closedButtonText:"ToggleButton"},u.default.createElement("p",null,"Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."))};t.default=i}}]);
+//# sourceMappingURL=681-1abc24dec223b2661a68.js.map
